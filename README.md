@@ -7,7 +7,7 @@ The latest reports is mailed to the team members using GMAIL SMTP.
 
 ## About Me ##
 Hi, My name is Akshay. I have over 4 years of experience working as QA Engineer with knowledge on UI and API Automation using Selenium and RestAssured.
-You can connect with me over : ![LinkedIn](https://www.linkedin.com/in/akshayjagadal)
+You can connect with me over : https://www.linkedin.com/in/akshayjagadal
 
 ## Test Coverege ##
 1. Happy flow testing
